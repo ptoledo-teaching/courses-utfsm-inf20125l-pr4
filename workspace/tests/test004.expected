@@ -1,0 +1,5 @@
+Solicitud 001: OK | base=BaseA | capacidad=100/100 | prioridad=NORMAL
+Solicitud 002: ALERTA | base=BaseB | capacidad=99/100 | prioridad=ALTA
+Solicitud 003: OK | base=BaseC | capacidad=100/100 | prioridad=ALTA
+Solicitud 004: ALERTA | base=BaseD | capacidad=98/100 | prioridad=CRITICA
+Solicitud 005: OK | base=BaseE | capacidad=120/100 | prioridad=NORMAL

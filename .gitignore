@@ -1,0 +1,7 @@
+workspace/code/*.o
+workspace/code/*.d
+workspace/code/evacuacion
+workspace/code/evacuacion_manual
+workspace/tests/*.out
+workspace/tests/*.err
+workspace/tests/*.diff

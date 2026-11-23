@@ -1,0 +1,4 @@
+Solicitud 001: OK | base=Dantooine | capacidad=90/80 | prioridad=NORMAL
+Solicitud 002: OK | base=Sullust | capacidad=500/500 | prioridad=ALTA
+Solicitud 003: OK | base=MonCala | capacidad=1050/900 | prioridad=CRITICA
+Solicitud 004: ALERTA | base=Ryloth | capacidad=800/1000 | prioridad=CRITICA

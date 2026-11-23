@@ -1,0 +1,3 @@
+Solicitud 001: OK | base=Echo | capacidad=600/450 | prioridad=ALTA
+Solicitud 002: ALERTA | base=Yavin | capacidad=1200/1300 | prioridad=ALTA
+Solicitud 003: OK | base=Hoth | capacidad=150/120 | prioridad=NORMAL
